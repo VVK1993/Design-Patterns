@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/State/Enemy State Enum Example/EnemyScene.unity
+- path: Assets/State/Enemy State Enum Example/StateEnumScene.unity
   isLoaded: 1
   isActive: 1
