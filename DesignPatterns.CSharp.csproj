@@ -72,6 +72,11 @@
     <Compile Include="Assets\Command\Undo Redo Command Example\Scripts\CubeController.cs" />
     <Compile Include="Assets\Command\Undo Redo Command Example\Scripts\MoveActorCommand.cs" />
     <Compile Include="Assets\Command\Undo Redo Command Example\Scripts\UndoRedoSceneController.cs" />
+    <Compile Include="Assets\Singleton\Singleton File Manager Example\Scripts\FileSystem.cs" />
+    <Compile Include="Assets\Singleton\Singleton File Manager Example\Scripts\FileSystemManager.cs" />
+    <Compile Include="Assets\Singleton\Singleton File Manager Example\Scripts\UnityFileSystem.cs" />
+    <Compile Include="Assets\Singleton\Singleton File Manager Example\Scripts\WindowsFileSystem.cs" />
+    <Compile Include="Assets\Singleton\Singleton Game Manager Example\Scripts\ScoreManager.cs" />
     <Compile Include="Assets\State\Enemy State Enum Example\Scripts\Enemy.cs" />
     <Compile Include="Assets\State\Enemy State OOP Example\Scripts\AttackState.cs" />
     <Compile Include="Assets\State\Enemy State OOP Example\Scripts\DeadState.cs" />
